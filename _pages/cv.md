@@ -35,7 +35,7 @@ redirect_from:
 - Data Scientist Intern, Express Scripts, 2018/05 - 2018/09
   - Pharmacy Claims Audit Optimization
 
-# <!-- Skills
+<!-- # Skills
 
 - Skill 1
 - Skill 2

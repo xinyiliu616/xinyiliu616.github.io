@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- @format -->
 
-⭐ **Flash Announcement** I'm attending [AAAI 2024](https://aaai.org/aaai-conference/) on February 21 - February 25, 2024 and will present our work [SwitchTab: Switched Autoencoders Are Effective Tabular Learners](https://ericchen12377.github.io/publication/2024-01-04-SwitchTab-Switched-Autoencoders-Are-Effective-Tabular-Learners) at poster session on February 24, 2024 ⭐
+⭐ **Flash Announcement** ⭐ I'm attending [AAAI 2024](https://aaai.org/aaai-conference/) on February 21 - February 25, 2024 and will present our work [SwitchTab: Switched Autoencoders Are Effective Tabular Learners](https://ericchen12377.github.io/publication/2024-01-04-SwitchTab-Switched-Autoencoders-Are-Effective-Tabular-Learners) at poster session on February 24, 2024
 
 ## 🎓 **About Me**
 
