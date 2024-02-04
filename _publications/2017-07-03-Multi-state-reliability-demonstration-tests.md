@@ -2,7 +2,7 @@
 title: "Multi-state reliability demonstration tests"
 collection: publications
 permalink: /publication/2017-07-03-Multi-state-reliability-demonstration-tests
-# excerpt: "This paper is about the number 1. The number 2 is left for future work."
+excerpt: "**Suiyao Chen**, Lu Lu, Mingyang Li"
 date: 2017-07-03
 venue: "Quality Engineering"
 # paperurl: "https://www.researchgate.net/publication/315849472_Personalized_fall_risk_assessment_for_long-term_care_services_improvement"
@@ -11,4 +11,4 @@ venue: "Quality Engineering"
 
 <!-- @format -->
 
-[Download paper here](https://www.researchgate.net/profile/Suiyao-Chen/publication/315955046_Multi-State_Reliability_Demonstration_Tests/links/5a257652a6fdcc8e866b1210/Multi-State-Reliability-Demonstration-Tests.pdf)
+[Download paper here](https://www.researchgate.net/profile/Suiyao-Chen/publication/315955046_Multi-State_Reliability_Demonstration_Tests/links/5a257652a6fdcc8e866b1210/Multi-State-Reliability-Demonstration-Tests.pdf)[Demo](https://github.com/ericchen12377/Multi-stateRDT_QE2017)[Package_R](https://github.com/ericchen12377/MSRDT)
