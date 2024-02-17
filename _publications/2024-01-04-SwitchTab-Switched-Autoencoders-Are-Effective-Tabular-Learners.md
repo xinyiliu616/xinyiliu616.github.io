@@ -11,4 +11,4 @@ venue: "AAAI 2024"
 
 <!-- @format -->
 
-[Download paper here](https://arxiv.org/pdf/2401.02013.pdf)
+[Download paper here](https://www.amazon.science/publications/switchtab-switched-autoencoders-are-effective-tabular-learners)
