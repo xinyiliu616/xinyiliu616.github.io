@@ -15,7 +15,7 @@ The poster is [here](http://ericchen12377.github.io/files/AAAI2024_poster_AS_48_
 
 ## 🎓 **About Me**
 
-I am a seasoned data scientist and researcher with extensive exprience in AI/ML/Stats as well as domain expertise in e-commerce fraud/abuse detection and healthcare
+I am a seasoned data scientist and researcher with extensive experience in AI/ML/Stats as well as domain expertise in e-commerce fraud/abuse detection and healthcare
 
 I received my **Ph.D.** from [**University of South Florida**](https://www.usf.edu/), guided by [**Dr. Mingyang Li**](https://www.usf.edu/engineering/imse/people/index.aspx#:~:text=About-,Mingyang%20Li,-Associate%20Professor).
 
