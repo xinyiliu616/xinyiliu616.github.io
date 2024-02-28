@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name: "Eileen Liu"
-  avatar: "suiyao.png"
+  avatar: 
   bio: "Data Insights @ Google Play Trust & Safety"
   location: "Bay Area, CA, USA"
   employer: "Google"
-  pubmed: "https://www.ncbi.nlm.nih.gov/myncbi/suiyao.chen.1/bibliography/public/"
-  googlescholar: "https://scholar.google.com/citations?user=YFpw0tcAAAAJ&hl=en"
+  pubmed: 
+  googlescholar: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=Rq7Wa94AAAAJ"
   email: #"xinyi.liu2012@gmail.com"
   researchgate: 
   uri:
