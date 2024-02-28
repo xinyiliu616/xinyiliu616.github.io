@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Better Way of Life"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -10,24 +10,17 @@ redirect_from:
 
 <!-- @format -->
 
-⭐ **Flash Announcement** ⭐ I'm attending [AAAI 2024](https://aaai.org/aaai-conference/) on February 21 - February 25, 2024 and will present our work [SwitchTab: Switched Autoencoders Are Effective Tabular Learners](https://ericchen12377.github.io/publication/2024-01-04-SwitchTab-Switched-Autoencoders-Are-Effective-Tabular-Learners) at poster session on February 24, 2024
-The poster is [here](http://ericchen12377.github.io/files/AAAI2024_poster_AS_48_36.pdf)
+<!-- ⭐ **Flash Announcement** ⭐ I'm attending [AAAI 2024](https://aaai.org/aaai-conference/) on February 21 - February 25, 2024 and will present our work [SwitchTab: Switched Autoencoders Are Effective Tabular Learners](https://ericchen12377.github.io/publication/2024-01-04-SwitchTab-Switched-Autoencoders-Are-Effective-Tabular-Learners) at poster session on February 24, 2024
+The poster is [here](http://ericchen12377.github.io/files/AAAI2024_poster_AS_48_36.pdf) -->
 
 ## 🎓 **About Me**
 
-I am a seasoned data scientist and researcher with extensive experience in AI/ML/Stats as well as domain expertise in e-commerce fraud/abuse detection and healthcare
+As a data scientist, I have a passion for solving complex problems and telling compelling stories with data. I currently work as a abuse analyst @ Google Play Trust and Safety, where I evaluate developer risk and help protect the users and the platform from fraud and abuse.
 
-I received my **Ph.D.** from [**University of South Florida**](https://www.usf.edu/), guided by [**Dr. Mingyang Li**](https://www.usf.edu/engineering/imse/people/index.aspx#:~:text=About-,Mingyang%20Li,-Associate%20Professor).
+Previously, I worked as a Data Scientist at Cigna, where I applied my skills in data analytics and machine learning to support the Home Delivery Pharmacy and Strategic Analytics teams.
 
 ## 🔍 **Research Interests**
 
 My research is primarily in the fields of **machine learning**, **representation learning** and interdisciplinary applications in **healthcare data analytics** and **reliability engineering**.
 
 ## 📰 **News & Updates**
-
-- **Jan 2024**:
-
-  - Our paper, "SwitchTab: Switched Autoencoders Are Effective Tabular Learners" has been accepted at **AAAI**.
-
-- **Oct 2023**:
-  - Our paper, "ReConTab: Regularized Contrastive Representation Learning for Tabular Data" has been accepted at **NeurIPS** workshop.
