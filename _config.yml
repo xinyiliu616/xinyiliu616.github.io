@@ -9,13 +9,13 @@
 
 # Site Settings
 locale: "en-US"
-title: "Suiyao Chen / Ph.D. in Industrial Engineering"
+title: "Eileen Liu"
 title_separator: "-"
-name: &name "Suiyao Chen"
+name: &name "Eileen Liu"
 description: &description "personal description"
-url: https://ericchen12377.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://xinyiliu616.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "ericchen12377/ericchen12377.github.io"
+repository: "xinyiliu616/xinyiliu616.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
