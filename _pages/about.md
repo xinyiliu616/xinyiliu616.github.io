@@ -19,8 +19,8 @@ As a data scientist, I am telling compelling stories with data.
 
 I currently work as an abuse analyst @ Google Play Trust and Safety, where I evaluate developer risk and help protect the users and the platform from fraud and abuse. Previously, I worked as a Data Scientist at Cigna, where I applied my skills in data analytics and machine learning to support the Home Delivery Pharmacy and Strategic Analytics teams.
 
-## 🔍 **Research Interests**
+## 🔍 ** Interests**
 
-My research is primarily in the fields of **machine learning**, **representation learning** and interdisciplinary applications in **healthcare data analytics** and **reliability engineering**.
+My interests is primarily in the fields of **data science**, **fraud and abuse prevention** and **risk management**
 
 ## 📰 **News & Updates**
