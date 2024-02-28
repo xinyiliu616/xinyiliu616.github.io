@@ -87,34 +87,34 @@ author:
   employer: "Google"
   #pubmed: 
   googlescholar: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=Rq7Wa94AAAAJ"
-  email: #"xinyi.liu2012@gmail.com"
-  researchgate: 
-  uri:
-  bitbucket:
-  codepen:
-  dribbble:
-  flickr:
-  facebook:
-  foursquare:
+  email: "xinyi.liu2012@gmail.com"
+  # researchgate: 
+  # uri:
+  # bitbucket:
+  # codepen:
+  # dribbble:
+  # flickr:
+  # facebook:
+  # foursquare:
   github: "xinyiliu616"
-  google_plus:
-  keybase:
-  instagram:
-  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm:
+  # google_plus:
+  # keybase:
+  # instagram:
+  # impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # lastfm:
   linkedin: "xinyi-eileen-liu"
-  orcid: 
-  pinterest:
-  soundcloud:
-  stackoverflow: # http://stackoverflow.com/users/123456/username
-  steam:
-  tumblr:
-  twitter: #"replacethistwitterhandle"
-  vine:
-  weibo:
-  xing:
-  youtube:
-  wikipedia:
+  # orcid: 
+  # pinterest:
+  # soundcloud:
+  # stackoverflow: # http://stackoverflow.com/users/123456/username
+  # steam:
+  # tumblr:
+  # twitter: #"replacethistwitterhandle"
+  # vine:
+  # weibo:
+  # xing:
+  # youtube:
+  # wikipedia:
 
 # Reading Files
 include:
