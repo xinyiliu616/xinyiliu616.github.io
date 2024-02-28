@@ -15,9 +15,9 @@ The poster is [here](http://ericchen12377.github.io/files/AAAI2024_poster_AS_48_
 
 ## 🎓 **About Me**
 
-As a data scientist, I have a passion for solving complex problems and telling compelling stories with data. I currently work as a abuse analyst @ Google Play Trust and Safety, where I evaluate developer risk and help protect the users and the platform from fraud and abuse.
+As a data scientist, I am telling compelling stories with data. 
 
-Previously, I worked as a Data Scientist at Cigna, where I applied my skills in data analytics and machine learning to support the Home Delivery Pharmacy and Strategic Analytics teams.
+I currently work as an abuse analyst @ Google Play Trust and Safety, where I evaluate developer risk and help protect the users and the platform from fraud and abuse. Previously, I worked as a Data Scientist at Cigna, where I applied my skills in data analytics and machine learning to support the Home Delivery Pharmacy and Strategic Analytics teams.
 
 ## 🔍 **Research Interests**
 
