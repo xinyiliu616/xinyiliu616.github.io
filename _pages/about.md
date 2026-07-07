@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Better Way of Life"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,26 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-<!-- @format -->
+## 👋 Welcome!
 
-⭐ **Flash Announcement** ⭐ I'm attending [AAAI 2024](https://aaai.org/aaai-conference/) on February 21 - February 25, 2024 and will present our work [SwitchTab: Switched Autoencoders Are Effective Tabular Learners](https://ericchen12377.github.io/publication/2024-01-04-SwitchTab-Switched-Autoencoders-Are-Effective-Tabular-Learners) at poster session on February 24, 2024
-The poster is [here](http://ericchen12377.github.io/files/AAAI2024_poster_AS_48_36.pdf)
+I am a **Senior Risk Data Scientist** in **Trust & Safety at Google** with 6+ years of experience in product analytics, causal inference, machine learning, and abuse detection. My work focuses on building telemetry pipelines, designing experiment frameworks, and developing scalable ML/LLM systems to protect users and platform integrity.
 
-## 🎓 **About Me**
+At Google, I lead safety and security testing frameworks for Chrome's GenAI features, design Play developer risk prevention systems, and build automated LLM solutions to streamline abuse detection and rule deployment. Previously, I was a Data Scientist at Cigna, where I developed customer retention and journey modeling pipelines in Spark.
 
-I am a seasoned data scientist and researcher with extensive experience in AI/ML/Stats as well as domain expertise in e-commerce fraud/abuse detection and healthcare
+## 🔍 Professional Interests
 
-I received my **Ph.D.** from [**University of South Florida**](https://www.usf.edu/), guided by [**Dr. Mingyang Li**](https://www.usf.edu/engineering/imse/people/index.aspx#:~:text=About-,Mingyang%20Li,-Associate%20Professor).
+* **GenAI Safety & Policy Enforcement:** Red-teaming, safety evaluations, and shift-left risk frameworks.
+* **Experimentation & Causal Inference:** A/B testing design, variance reduction (CUPED), network effects, and guardrail metric systems.
+* **Risk & Abuse Modeling:** Large-scale anomaly detection, classifier tuning, and automated content review systems.
 
-## 🔍 **Research Interests**
+## 🎓 Education
 
-My research is primarily in the fields of **machine learning**, **representation learning** and interdisciplinary applications in **healthcare data analytics** and **reliability engineering**.
+* **M.S. in Customer Analytics**, Washington University in St. Louis (2018)
+* **B.S. in Business Analytics**, University of Denver (2016)
 
-## 📰 **News & Updates**
-
-- **Jan 2024**:
-
-  - Our paper, "SwitchTab: Switched Autoencoders Are Effective Tabular Learners" has been accepted at **AAAI**.
-
-- **Oct 2023**:
-  - Our paper, "ReConTab: Regularized Contrastive Representation Learning for Tabular Data" has been accepted at **NeurIPS** workshop.

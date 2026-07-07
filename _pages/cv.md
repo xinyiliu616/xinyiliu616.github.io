@@ -13,55 +13,34 @@ redirect_from:
 
 # Education
 
-- B.S. in Economics, Huazhong University of Science and Technology, 2014
-- M.S. in Statistics, Columbia University, 2015
-- M.S. in Industrial Engineering, University of South Florida, 2018
-- Ph.D in Industrial Engineering, University of South Florida, 2020
+* **M.S. in Customer Analytics**, Washington University in St. Louis, 2018
+* **B.S. in Business Analytics**, University of Denver, 2016
 
-# Work experience
+# Work Experience
 
-- Applied Scientist II, Buyer Risk Prevention, 2021/08 - Present
+### **Senior Risk Data Scientist, Trust & Safety @ Google** 
+*Sunnyvale, CA | May 2024 — Present*
+* Spearheaded the development of a novel safety and security testing framework for the launch of GenAI features in Chrome, driving consensus across Product, Engineering, Legal, and T&S to enable a successful product roll-out to 1B+ users. 
+* Reduced content review time by 20% by developing and launching an LLM-based solution that automatically identifies gibberish in developer names, questionnaires, and app names. 
 
-  - Graph Modeling, Sequence Modeling, Tabular Representation Learning
+### **Risk Data Scientist, Trust & Safety @ Google** 
+*Sunnyvale, CA | October 2021 — May 2024*
+* Collaborated with cross-functional teams to implement ML models that optimize risky Google Play developer detection and enforcement, leading to a 50% improvement in enforcement latency and reducing harmful installs by 25%.
+* Accelerated the launch of new abuse detection rules by 80% through the design and implementation of a streamlined abuse signal database.
+* Designed the core safety metrics and guardrails for new Google Play developer sign-up flow, which directly informed the go/no-go launch decision and shaped the post-launch anomaly detection strategy. 
 
-- Senior Data Scientist, IBM Chief Analytics Office, 2020/06 - 2021/07
+### **Data Scientist, Home Delivery Strategic Analytics @ Cigna** 
+*St. Louis, MO | February 2019 — October 2021*
+* Led end-to-end customer journey data lake project to identify customer churn drivers and built a Spark-based ML model to predict churn with 90% accuracy.
+* Facilitated cross-functional utilization of the model to prioritize high churn risk patients, resulting in an 8% improvement in satisfaction and retaining an estimated 150K customers ($200M revenue benefit).
 
-  - Produce Review Scoring and Marketing Analytics with Web-scrapping and NLP
+### **Data Scientist Intern, Home Delivery Strategic Analytics @ Cigna** 
+*St. Louis, MO | May 2018 — December 2018*
+* Developed customer segmentation ML models in Python, which were leveraged in marketing campaigns, improving response rate by 10%.
+* Facilitated personalized marketing campaign strategies and conducted A/B testing to measure campaign effectiveness.
 
-- Senior Data Scientist Intern, IBM Chief Analytics Office, 2019/05 - 2019/08
+# Skills
 
-  - Cognitive Pricing Modeling
+* **Languages & Frameworks:** SQL, Python, Spark, Hadoop, MapReduce
+* **Data Science Primitives:** Metric Design, Product Analytics, Data Engineering, Behavioral Analysis, Risk Management, Data Visualization, Hypothesis Testing, Machine Learning, Experiment Design (A/B Testing)
 
-- Data Scientist Intern, Express Scripts, 2018/05 - 2018/09
-  - Pharmacy Claims Audit Optimization
-
-<!-- # Skills
-
-- Skill 1
-- Skill 2
-  - Sub-skill 2.1
-  - Sub-skill 2.2
-  - Sub-skill 2.3
-- Skill 3 -->
-
-# Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
