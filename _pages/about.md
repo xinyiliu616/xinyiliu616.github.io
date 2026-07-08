@@ -10,15 +10,14 @@ redirect_from:
 
 ## 👋 Welcome!
 
-I am a **Senior Risk Data Scientist** in **Trust & Safety at Google** with 6+ years of experience in product analytics, causal inference, machine learning, and abuse detection. My work focuses on building telemetry pipelines, designing experiment frameworks, and developing scalable ML/LLM systems to protect users and platform integrity.
-
-At Google, I lead safety and security testing frameworks for Chrome's GenAI features, design Play developer risk prevention systems, and build automated LLM solutions to streamline abuse detection and rule deployment. Previously, I was a Data Scientist at Cigna, where I developed customer retention and journey modeling pipelines in Spark.
+I am a **Senior Data Scientist & AI Engineer** in **Responsible AI** at Google with 8+ years of experience protecting platform integrity and evaluating LLM vulnerabilities. I specialize in bridging rigorous data analytics with autonomous AI systems to proactively identify and neutralize high-impact abuse. By combining comprehensive safety testing (Red Teaming) with custom Agentic tooling, I ensure flagship AI models and features launch safely and operate securely at a global scale.
 
 ## 🔍 Professional Interests
 
-* **GenAI Safety & Policy Enforcement:** Red-teaming, safety evaluations, and shift-left risk frameworks.
-* **Experimentation & Causal Inference:** A/B testing design, variance reduction (CUPED), network effects, and guardrail metric systems.
-* **Risk & Abuse Modeling:** Large-scale anomaly detection, classifier tuning, and automated content review systems.
+* **GenAI Safety:** GenAI Safety & Red Teaming: Evaluating LLM vulnerabilities, conducting rigorous risk assessments, and designing guardrails for consumer-facing AI features.
+* **Agentic Workflows & AI Tooling:** Architecting autonomous, LLM-driven analytics tools to parse unstructured logs, extract hidden abuse patterns, and scale threat intelligence.
+* **Trust & Safety Analytics:** Driving cross-product investigations to identify high-impact abuse vectors, engineering centralized signal databases, and deploying active detection rules.
+* **Threat Intelligence & Mitigation:** Translating complex behavioral data into proactive, automated defenses that protect ecosystem integrity.
 
 ## 🎓 Education
 
